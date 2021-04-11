@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication1.Controllers.ValuesController.Get">
+            <summary>
+            Get the {ServiceHost}
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:WebApplication1.Startup.Configuration">
+            <summary>
+            Parameter of startup object = AppSetting.json
+            </summary>
+        </member>
+        <member name="M:WebApplication1.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:WebApplication1.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>
